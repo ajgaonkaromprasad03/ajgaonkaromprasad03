@@ -1,11 +1,18 @@
 <h1 align="center">Hi there! 👋 I'm Omprasad Ajgaonkar</h1>
-<h3 align="center">A Passionate Machine Learning Enthusiast!</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast</h3>
+
+<p align="center">
+  Currently delving into the exciting world of Machine Learning, Data Science, and Python-based web development, with a keen interest in building impactful projects.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajgaonkaromprasad03&label=Profile%20views&color=0e75b6&style=flat" alt="ajgaonkaromprasad03" />
 </p>
 
 ---
+
+## 🌐 Connect with me:
+... (rest of your code)
 
 ## 🌐 Connect with me:
 
