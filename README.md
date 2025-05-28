@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Omprasad Ajgaonkar</h1>
+<h1 align="center">Hi there! 👋 <br> I'm Omprasad Ajgaonkar</h1>
 <h3 align="center">A Passionate Machine Learning Enthusiast</h3>
 
 <p align="center">
