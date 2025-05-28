@@ -77,7 +77,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajgaonkaromprasad03&theme=default" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ajgaonkaromprasad03&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajgaonkaromprasad03&theme=defaul&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajgaonkaromprasad03&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 [![Omprasad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajgaonkaromprasad03&bg_color=00000&color=ff047d&line=9e4c98&point=403d3d&area=true)](https://github.com=ajgaonkaromprasad03/github-readme-activity-graph)
