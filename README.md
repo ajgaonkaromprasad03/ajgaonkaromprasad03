@@ -74,9 +74,8 @@
 ---
 
 ## 📈 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajgaonkaromprasad03&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajgaonkaromprasad03&theme=default" alt="Top Languages" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ajgaonkaromprasad03&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajgaonkaromprasad03&theme=defaul&hide_border=true" alt="GitHub Streak" />
 </p>
