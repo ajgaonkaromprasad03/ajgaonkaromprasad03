@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Omprasad Ajgaonkar</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast</h3>
+<h3 align="center">A Passionate Machine Learning Enthusiast</h3>
 
 <p align="center">
   Currently delving into the exciting world of Machine Learning, Data Science, and Python-based web development, with a keen interest in building impactful projects.
